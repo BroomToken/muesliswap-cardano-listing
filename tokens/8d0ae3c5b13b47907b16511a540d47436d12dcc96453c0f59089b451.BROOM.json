@@ -1,0 +1,9 @@
+{
+    "policyId": "8d0ae3c5b13b47907b16511a540d47436d12dcc96453c0f59089b451",
+    "name": "Broom Token",
+    "symbol": "BROOM",
+    "website": "https://broom.autos",
+    "description": "AnOther Token for Cardano Blockchain",
+    "totalSupply": 50000000000000,
+    "amounts": [1000000, 10000000, 100000000, 1000000000, 10000000000, 100000000000]
+}
